@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Data, model caches, and experiment tracking (kept out of the repo)
+data/
+mlruns/
+*.pth
+*.pt
+*.ckpt
+.cache/
+
+# OS
+Thumbs.db
+.DS_Store
